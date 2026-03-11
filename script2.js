@@ -1,4 +1,5 @@
 <script type="text/javascript">
+
 const sym1 =Symbol(4);
 console.log(sym1);
 const sym2 = Symbol(4);
@@ -9,9 +10,5 @@ if(sym1==sym2){
 else{
     console.log("false")
 }
-
-
-
-
 
 </script>
